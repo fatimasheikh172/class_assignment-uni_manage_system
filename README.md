@@ -28,7 +28,9 @@ The system is composed of the following classes:
 ---
 
 ==========================
+
 📘 Concepts Used in Python Code
+
 ==========================
 
 1. ✅ **Classes and Objects**
@@ -78,5 +80,7 @@ The system is composed of the following classes:
     - Not used here, but can be added for clarity (e.g., `def __init__(self, name: str)`)
 
 ==========================
+
 🧠 Concepts help you write reusable, structured, and readable code in OOP style!
+
 ==========================
